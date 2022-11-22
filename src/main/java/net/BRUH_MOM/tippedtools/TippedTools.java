@@ -1,6 +1,7 @@
 package net.BRUH_MOM.tippedtools;
 
 import com.mojang.logging.LogUtils;
+import net.BRUH_MOM.tippedtools.item.Items;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -21,6 +22,8 @@ public class TippedTools
     public TippedTools()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        Items.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
