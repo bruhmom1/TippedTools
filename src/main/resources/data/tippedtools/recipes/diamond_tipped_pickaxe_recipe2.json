@@ -4,7 +4,7 @@
     "item": "minecraft:iron_pickaxe"
   },
   "addition": {
-    "item": "minecraft:diamond"
+    "item": "diamondingots:diamond_shard"
   },
   "result": {
     "item": "tippedtools:diamond_tipped_pickaxe"
