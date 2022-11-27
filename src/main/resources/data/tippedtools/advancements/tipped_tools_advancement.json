@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "tippedtools:diamond_tipped_sword"
+    },
+    "title": "Tipped Tools!",
+    "description": "You Used Tipped Tools, Thanks!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tipped_tools_advancement": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}
