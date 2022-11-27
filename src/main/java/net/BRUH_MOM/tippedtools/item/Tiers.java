@@ -5,7 +5,7 @@ import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraftforge.common.ForgeTier;
 
-public class ModTiers {
+public class Tiers {
 
     // Emerald Tools | Attack Damage = +.2 | Durability = Slightly More Than Iron Tools
     public static final ForgeTier EMERALD_SWORD = new ForgeTier(2, 374, 6f, 3.2f, 32, BlockTags.NEEDS_IRON_TOOL,
