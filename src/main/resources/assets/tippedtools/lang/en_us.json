@@ -1,5 +1,24 @@
 {
   "item.tippedtools.emerald_tipped_sword": "Emerald Tipped Sword",
+  "item.tippedtools.emerald_tipped_axe": "Emerald Tipped Axe",
+  "item.tippedtools.emerald_tipped_pickaxe": "Emerald Tipped Pickaxe",
+  "item.tippedtools.emerald_tipped_shovel": "Emerald Tipped Shovel",
+  "item.tippedtools.emerald_tipped_hoe": "Emerald Tipped Hoe",
+  "item.tippedtools.diamond_tipped_sword": "Diamond Tipped Sword",
+  "item.tippedtools.diamond_tipped_axe": "Diamond Tipped Axe",
+  "item.tippedtools.diamond_tipped_pickaxe": "Diamond Tipped Pickaxe",
+  "item.tippedtools.diamond_tipped_shovel": "Diamond Tipped Shovel",
+  "item.tippedtools.diamond_tipped_hoe": "Diamond Tipped Hoe",
+  "item.tippedtools.netherite_tipped_sword": "Netherite Tipped Sword",
+  "item.tippedtools.netherite_tipped_axe": "Netherite Tipped Axe",
+  "item.tippedtools.netherite_tipped_pickaxe": "Netherite Tipped Pickaxe",
+  "item.tippedtools.netherite_tipped_shovel": "Netherite Tipped Shovel",
+  "item.tippedtools.netherite_tipped_hoe": "Netherite Tipped Hoe",
+  "item.tippedtools.gold_tipped_sword": "Gold Tipped Sword",
+  "item.tippedtools.gold_tipped_axe": "Gold Tipped Axe",
+  "item.tippedtools.gold_tipped_pickaxe": "Gold Tipped Pickaxe",
+  "item.tippedtools.gold_tipped_shovel": "Gold Tipped Shovel",
+  "item.tippedtools.gold_tipped_hoe": "Gold Tipped Hoe",
 
   "itemGroup.tippedtools.tipped_tools": "Tipped Tools"
 }
