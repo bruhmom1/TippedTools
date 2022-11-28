@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "tippedtools",
+  "version": "${version}",
+
+  "name": "Tipped Tools",
+  "description": "",
+  "authors": [
+    "BRUH_MOM"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "LGPL-3.0",
+  "icon": "a",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.BRUH_MOM.tippedtools.TippedTools"
+    ],
+    "client": [
+      "net.BRUH_MOM.tippedtools.Client"
+    ]
+  },
+  "mixins": [
+    "tippedtools.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
