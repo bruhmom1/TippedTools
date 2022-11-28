@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tippedtools:item/emerald_tipped_pickaxe"
+  }
+}
